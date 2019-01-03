@@ -7,6 +7,9 @@ Intermediate Programming Course Project, Programmed in C++
 An implementation of the multiplayer version of the card game "Skip-Bo". Used object
 oriented programming and inheritance-related classes. 
 
+Run new game: ./skipbo true 4 5 deck0.txt
+Run saved game: ./skipbo true savedGame.txt
+
 Base Classes and derived Classes
 -----------------------------------------
 - Card - represent the playing cards
